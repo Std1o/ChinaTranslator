@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963199142489",
+    "firebase_url": "https://chinatranslator-501e8.firebaseio.com",
+    "project_id": "chinatranslator-501e8",
+    "storage_bucket": "chinatranslator-501e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963199142489:android:01122ad574d1ce0d",
+        "android_client_info": {
+          "package_name": "com.stdio.chinatranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963199142489-en2fuphk8cnt5d2ndj5g7bt7bk7irase.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stdio.chinatranslator",
+            "certificate_hash": "18e254fd3d34e473405a6fa6f5fca10d99fb66c4"
+          }
+        },
+        {
+          "client_id": "963199142489-d803dgbp8vkcfue849k874hsalgvmm25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tG1oMLsmqqFeQKOCqt8gd1XPRjgCE_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963199142489-d803dgbp8vkcfue849k874hsalgvmm25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
